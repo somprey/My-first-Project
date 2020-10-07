@@ -12,6 +12,10 @@ import AnotherImage from './AnotherImage';
 
 import Mytable from './Mytable';
 import Paragraph from './Paragraph';
+import About from './About';
+import Codeme from './Codeme';
+import Last from './Last';
+
 
 function App(){
   return(
@@ -23,6 +27,9 @@ function App(){
       <AnotherImage/>
       <Mytable/>
       <Paragraph/>
+      <About/>
+      <Codeme/>
+      <Last/>
     </div>
   );
 
